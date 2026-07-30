@@ -6,18 +6,23 @@ I'm a technology student passionate about computer system development, problem-s
 **SKILLS**
 
 problem solving 
+
 Git& GitHub C&C++
 
 **GOALS**
 
 projects innovation and Development
+
 Ease of programming language usage
+
 Understanding software linkages
 
 **PROJECTS**
 
 Student Management System
+
 Programming solutions
+
 Personal Portfolio Website
 
 **conclusion**

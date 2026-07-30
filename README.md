@@ -2,20 +2,24 @@
 **ABOUT ME**
 
 I'm a technology student passionate about computer system development, problem-solving, and learning new technology I enjoy building projects based on my skills gained in order to improve my practical experience in my tech industry
+
 **SKILLS**
 
 problem solving 
 Git& GitHub C&C++
+
 **GOALS**
 
 projects innovation and Development
 Ease of programming language usage
 Understanding software linkages
+
 **PROJECTS**
 
 Student Management System
 Programming solutions
 Personal Portfolio Website
+
 **conclusion**
 
 I believe that technology can be used to solve real world challenges so as to create a positive impact as I grow step by step

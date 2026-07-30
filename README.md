@@ -1,6 +1,6 @@
 # HeyThere,I'm MUGISHA Leonce 
 ABOUT ME
-I'm a technology student passionate about computer system development, problem-solving, and learning new technology I enjoy building projects based on my skills gained in order to improve my practical experience in my tech industry
+I'm a technology student passionate about computer system development, problem-solving, and learning new technology I enjoy building projects based on my skills gained in order to improve my practical experience in my tech industry7
 SKILLS
 problem solving Git& GitHub C&C++
 GOALS
